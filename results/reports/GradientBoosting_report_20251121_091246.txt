@@ -1,0 +1,10 @@
+Classification report for GradientBoosting
+
+              precision    recall  f1-score   support
+
+           0     0.8395    0.8831    0.8608        77
+           1     0.9126    0.8785    0.8952       107
+
+    accuracy                         0.8804       184
+   macro avg     0.8761    0.8808    0.8780       184
+weighted avg     0.8820    0.8804    0.8808       184
