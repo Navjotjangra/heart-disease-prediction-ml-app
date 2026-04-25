@@ -90,6 +90,6 @@ UCI Heart Disease dataset (`data/heart.csv`) — 303 patient records, 13 clinica
 - Medical research baseline model
 
 ## About
-Built by [Your Name] | BCA (Hons) Final Year | Graphic Era University  
-Open to Data Science & ML internship opportunities.  
-LinkedIn: [your link]
+Built by **Navjot Jangra** | BCA (Hons) Final Year | Graphic Era University
+Open to Data Science & ML internship opportunities.
+[LinkedIn → Navjot Jangra](https://www.linkedin.com/in/navjot-jangra-7b6b19281)
