@@ -16,16 +16,16 @@ This system predicts heart disease risk by training on the UCI Heart Disease dat
 
 ## Model Performance
 
-| Model               | Accuracy |
-|---------------------|----------|
-| RandomForest        | ~85%     |
-| XGBoost             | ~85%     |
-| GradientBoosting    | ~85%     |
-| LogisticRegression  | ~85%     |
-| SVM                 | ~85%     |
-| KNN                 | ~85%     |
+| Model | Accuracy | Precision | Recall | F1-Score |
+|---|---|---|---|---|
+| **GradientBoosting** ✅ | **88.04%** | 88.20% | 88.04% | 88.08% |
+| RandomForest | 87.50% | 87.53% | 87.50% | 87.51% |
+| SVM | 86.41% | 86.44% | 86.41% | 86.42% |
+| KNN | 85.87% | 85.94% | 85.87% | 85.89% |
+| XGBoost | 85.33% | 85.72% | 85.33% | 85.40% |
+| LogisticRegression | 83.70% | 84.02% | 83.70% | 83.77% |
 
-*(Note: Values are placeholders — update with exact metrics from `results/` as needed.)*
+> Best performing model: **GradientBoosting** (88.04% accuracy) — deployed as the default predictor.
 
 ## How It Works
 ```
